@@ -1,3 +1,5 @@
+// Copyright (c) 2018-2019, CNRS
+// Authors: Sanghyun Kim <ggory15@snu.ac.kr>
 
 #ifndef __serialization_archive_hpp__
 #define __serialization_archive_hpp__

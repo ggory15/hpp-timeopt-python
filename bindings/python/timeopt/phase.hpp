@@ -1,3 +1,6 @@
+// Copyright (c) 2018-2019, CNRS
+// Authors: Sanghyun Kim <ggory15@snu.ac.kr>
+
 #ifndef __hpp_timeopt_python_phase_hpp__
 #define __hpp_timeopt_python_phase_hpp__
 

@@ -1,3 +1,6 @@
+# Copyright (c) 2018-2019, CNRS
+# Authors: Sanghyun Kim <ggory15@snu.ac.kr>
+
 include(../cmake/test.cmake)
 ADD_DEFINITIONS(-DCONFIG_DIR="${CMAKE_CURRENT_SOURCE_DIR}/../config")
 

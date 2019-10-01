@@ -1,3 +1,6 @@
+# Copyright (c) 2018-2019, CNRS
+# Authors: Sanghyun Kim <ggory15@snu.ac.kr>
+
 # --- MACROS --- #
 MACRO(SYMLINK_AND_INSTALL_HEADERS HEADERS SUBPATH)
   FOREACH(header ${HEADERS})

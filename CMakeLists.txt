@@ -1,3 +1,6 @@
+# Copyright (c) 2018-2019, CNRS
+# Authors: Sanghyun Kim <ggory15@snu.ac.kr>
+
 CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 
 INCLUDE(cmake/base.cmake)

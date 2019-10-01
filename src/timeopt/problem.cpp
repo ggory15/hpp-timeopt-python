@@ -1,3 +1,6 @@
+// Copyright (c) 2018-2019, CNRS
+// Authors: Sanghyun Kim <ggory15@snu.ac.kr>
+
 #include "timeopt/problem.hpp"
 #include <momentumopt/cntopt/ContactPlanFromFile.hpp>
 

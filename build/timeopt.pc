@@ -1,0 +1,22 @@
+prefix=/opt/openrobots
+exec_prefix=/opt/openrobots
+libdir=/opt/openrobots/lib
+bindir=/opt/openrobots/bin
+pkglibdir=/opt/openrobots/lib/timeopt
+includedir=/opt/openrobots/include
+datarootdir=/opt/openrobots/share
+pkgdatarootdir=/opt/openrobots/share
+docdir=
+doxygendocdir=
+
+Name: timeopt
+Description: COM Generator
+URL: http://github.com/ggory15
+Version: UNKNOWN-dirty
+Requires: eigen3 >= 3.2.0, momentumopt, yaml-cpp
+Conflicts: 
+Libs: -L${libdir}  -ltimeopt
+Libs.private: 
+Cflags:  -I${includedir} -I/usr/include
+
+

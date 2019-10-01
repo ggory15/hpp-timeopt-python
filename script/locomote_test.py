@@ -1,3 +1,6 @@
+# Copyright (c) 2018-2019, CNRS
+# Authors: Sanghyun Kim <ggory15@snu.ac.kr>
+
 from configs.talos_nav import *
 import numpy as np
 import timeopt

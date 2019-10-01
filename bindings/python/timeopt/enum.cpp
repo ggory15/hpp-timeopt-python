@@ -1,5 +1,5 @@
-
-// #include "timeopt/timeopt/fwd.hpp"
+// Copyright (c) 2018-2019, CNRS
+// Authors: Sanghyun Kim <ggory15@snu.ac.kr>
 
 #include "timeopt/bindings/python/timeopt/expose-problem.hpp"
 #include "timeopt/bindings/python/timeopt/enum.hpp"

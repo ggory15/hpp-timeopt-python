@@ -1,3 +1,6 @@
+// Copyright (c) 2018-2019, CNRS
+// Authors: Sanghyun Kim <ggory15@snu.ac.kr>
+
 /*
  Code adapted from: https://gist.githubusercontent.com/mtao/5798888/raw/5be9fa9b66336c166dba3a92c0e5b69ffdb81501/eigen_boost_serialization.hpp
  Copyright (c) 2015 Michael Tao
