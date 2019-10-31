@@ -35,7 +35,7 @@ BOOST_AUTO_TEST_CASE ( test_Time_opt )
     tp.setPhase(4, PhaseInfo(LF, 4.0, 6.5, Vector3d(-0.080, 0.70, -0.52), Matrix3d::Identity()));
     tp.setPhase(5, PhaseInfo(LF, 8.5, 9.9, Vector3d(-0.080, 1.25, -0.25), Matrix3d::Identity()));
     
-    std::string planner_path = std::string(CONFIG_DIR)+"/"+"cfg_momSc_demo02.yaml";
+    std::string planner_path = std::string(CONFIG_DIR)+"/"+"cfg_momSc_demo01.yaml";
     tp.setConfigurationFile(planner_path);
    
     //  Set Timeopt 
